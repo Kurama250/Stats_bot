@@ -32,7 +32,7 @@ apt-get install -y nodejs
 ```shell script
 git clone https://github.com/Kurama250/Stats_bot.git
 cd Stats_bot
-npm install discord.js
+npm install discord.js@12
 npm install pm2 -g
 ```
 
