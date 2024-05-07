@@ -65,4 +65,5 @@ pm2 start index.js -n Stats_bot
 
 ![alt text](https://github.com/Kurama250/Stats_bot/blob/main/stats.png)
 
+<h3 align="center">If you like this repository don't hesitate to give it a star ⭐ !</h3>
 <h1 align="center">Then it's the end you have started the bot have fun !</h1>
